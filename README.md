@@ -22,4 +22,30 @@ What steganography essentially does is exploit human perception, human senses ar
     • General idea of .bmp image file
     
 ***Output*** :
-1. 
+1. *Original Image File* :
+   <br>
+   <br>
+   <img src="https://github.com/VisheshK65/LSB-Image-Steganography/blob/main/Original_Image.png"  width="800" height="500">
+   <br>
+2. *Performing Encoding* :
+   <br>
+   <br>
+   <img src="https://github.com/VisheshK65/LSB-Image-Steganography/blob/main/Encoding_Command.png"  width="1000" height="500">
+   <br>
+3. *Encoded Image* :
+   <br>
+   <br>
+   <img src="https://github.com/VisheshK65/LSB-Image-Steganography/blob/main/Encoded_Image.png"  width="800" height="500">
+   <br>
+4. *Perform Decoding* :
+   <br>
+   <br>
+   <img src="https://github.com/VisheshK65/LSB-Image-Steganography/blob/main/Decoding_Command.png"  width="1000" height="500">
+   <br>
+5. *Error Output* :
+   <br>
+   <br>
+   <img src="https://github.com/VisheshK65/LSB-Image-Steganography/blob/main/Error_Output.png"  width="1000" height="250">
+   <br>
+
+
