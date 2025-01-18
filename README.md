@@ -1,5 +1,12 @@
 # LSB-Image-Steganography
 
+An application of cryptography, used for securely transferring data using images.
+
+Developed a C-based application for securely transmitting data using image steganography. This method encodes sensitive information into the least significant bits of an image's byte data, ensuring that messages remain hidden from unauthorized users. Leveraged command line arguments, file operations, bitwise operations, and pointers to achieve successful data encoding and decoding. The process is secured by a key that allows only authorized parties to decode the embedded message.
+
+Skills Gained: C, Command Line Arguments, File Operations, Bitwise Operations, Pointers, Data Structures
+
+# Jist About the Project
 Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carrier file formats can be used, but digital images are the most popular because of their frequency on the internet. For hiding secret information in images, there exists a large variety of steganography techniques some are more complex than others and all of them have respective strong and weak points. Different applications may require absolute invisibility of the secret information, while others require a large secret message to be hidden. 
 
 Steganography is the practice of hiding private or sensitive information within something that appears to be nothing out to the usual. Steganography is often confused with cryptology because the two are similar in the way that they both are used to protect important information. The difference between two is that steganography involves hiding information so it appears that no information is hidden at all. If a person or persons views the object that the information is hidden inside of he or she will have no idea that there is any hidden information, therefore the person will not attempt to decrypt the information.
